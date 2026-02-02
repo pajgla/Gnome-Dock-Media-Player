@@ -24,7 +24,7 @@ This is a simple GNOME Shell Extension that integrates a media widget directly i
 2) **Install the extension**:
    ```
    cd ~/.local/share/gnome-shell/extensions/ && \
-   git clone https://github.com/pajgla/Gnome-Dock-Media-Player-Extension.git dock-media-player@pajgla.github
+   git clone https://github.com/pajgla/Gnome-Dock-Media-Player.git dock-media-player@pajgla.github
    ```
 3) **Restart GNOME Shell**:
    - X11: Press `Alt+F2`, type `r` and hit `Enter`
