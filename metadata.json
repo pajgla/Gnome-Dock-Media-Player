@@ -2,6 +2,7 @@
   "name": "Dock Media Player",
   "description": "Simple media widget for Dash to Dock",
   "uuid": "dock-media-player@pajgla.github",
+  "settings-schema": "org.gnome.shell.extensions.dock-media-player",
   "shell-version": [
     "45",
     "46",
